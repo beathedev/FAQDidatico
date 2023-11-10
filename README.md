@@ -1,12 +1,22 @@
-# F.A.Q Didático
+# Bem-vindo ao F.A.Q Didático
 
-Bem-vindo ao projeto F.A.Q Didático! Este projeto é uma implementação simples de um sistema de Perguntas e Respostas usando Programação Orientada a Objetos (POO) em Java.
+O F.A.Q Didático é um projeto que aborda diversos temas na área de computação. Cada subdiretório representa um tópico específico, contendo uma FAQ e atividades práticas para reforçar o aprendizado.
 
 ## Sobre o Projeto
 
-O F.A.Q Didático tem como objetivo fornecer uma base para entender como a POO pode ser aplicada na construção de sistemas simples de Perguntas e Respostas. Você encontrará classes como `Pergunta` e `Resposta` que podem ser utilizadas como ponto de partida para projetos mais complexos.
+O objetivo do F.A.Q Didático é fornecer um recurso educacional que vai além de simples explicações teóricas. Cada tópico inclui uma FAQ com perguntas frequentes relacionadas ao assunto, juntamente com atividades práticas e códigos de exemplo para uma compreensão mais aprofundada.
 
-## Estrutura do Projeto
+## Tópicos Disponíveis
 
-O projeto está organizado da seguinte forma:
+- [Programação Orientada a Objetos (POO)](poo/README.md)
+- [Estrutura de Dados](estrutura-de-dados/README.md)
+- [Delphi](delphi/README.md)
+
+## Como Contribuir
+
+Contribuições são bem-vindas! Se você tem conhecimento em um tópico específico e gostaria de adicionar uma FAQ ou atividades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Como Utilizar
+
+Cada subdiretório contém uma FAQ específica e atividades práticas relacionadas ao tópico. Explore os tópicos disponíveis e aprofunde seus conhecimentos em computação.
 
